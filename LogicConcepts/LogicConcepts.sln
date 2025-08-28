@@ -7,6 +7,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01", "01", "{02EA681E-C7D8-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsNumberOrNot", "IsNumberOrNot\IsNumberOrNot.csproj", "{870ECB5F-0C72-4968-BF86-32F43011E6C6}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02", "02", "{274EB4CE-02D0-4943-AD4E-2C2B9EC7ACED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheGreathesNumber", "TheGreathesNumber\TheGreathesNumber.csproj", "{CBA63C63-1C60-4730-B338-641623B26759}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,12 +21,17 @@ Global
 		{870ECB5F-0C72-4968-BF86-32F43011E6C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{870ECB5F-0C72-4968-BF86-32F43011E6C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{870ECB5F-0C72-4968-BF86-32F43011E6C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBA63C63-1C60-4730-B338-641623B26759}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBA63C63-1C60-4730-B338-641623B26759}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBA63C63-1C60-4730-B338-641623B26759}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBA63C63-1C60-4730-B338-641623B26759}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{870ECB5F-0C72-4968-BF86-32F43011E6C6} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{CBA63C63-1C60-4730-B338-641623B26759} = {274EB4CE-02D0-4943-AD4E-2C2B9EC7ACED}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0820AA1E-B9F6-4A5A-9E63-E2B9B16EC267}
